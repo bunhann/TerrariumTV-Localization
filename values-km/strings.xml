@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_zh_tw">ភាសាចិនប្រពៃណី</string>
+    <string name="language_zh_cn">ភាសាចិនសាមញ្ញ</string>
+    <string name="language_en">ភាសា​អង់គ្លេស</string>
+
+    <string name="action_settings">ការ​កំណត់</string>
+
+    <string name="no_data">គ្មានទិន្នន័យ</string>
+    <string name="no_internet">ពុំមានបណ្តាញអ៊ិនធើណីត</string>
+    <string name="loading">កំពុងផ្ទុក</string>
+    <string name="loading_more">កំពុងផ្ទុកបន្ថែមទៀត…</string>
+    <string name="action_search">ស្វែងរក</string>
+    <string name="action_bookmark">ពេញចិត្ត</string>
+    <string name="action_add_to_bookmark">បន្ថែមទៅក្នុងការពេញចិត្ត</string>
+    <string name="action_refresh">ធ្វើឲ្យថ្មីឡើងវិញ</string>
+    <string name="action_stop">ឈប់</string>
+    <string name="action_next_episode">វគ្គបន្ទាប់</string>
+    <string name="action_reverse">ត្រឡប់ទៅក្រោយ</string>
+    <string name="action_set_watched">កំណត់ទស្្សនារួចហើយ</string>
+    <string name="action_remove_watched">ដកចេញពីទស្សនារួចហើយ</string>
+    <string name="action_sync_with_trakt">ធ្វើសមកាលកម្ម​ជាមួយ Trakt.tv</string>
+    <string name="action_share_app">ចែករំលែកកម្មវិធី</string>
+    <string name="sync_in_progress">ការធ្វើសមកាលកម្មកំពុងដំណើរការ…</string>
+    <string name="hint_tv_show_name">ឈ្មោះកម្មវិធីទូរទស្សន៍</string>
+    <string name="hint_movie_name">ឈ្មោះភាពយន្ត</string>
+    <string name="subtitle">ចំណងជើងរង </string>
+    <string name="unknown">មិនដឹង</string>
+    <string name="download_count">ចំនួនទាញយក:</string>
+
+    <string name="season">រដូវ %1$d</string>
+    <string name="episode">វគ្គ %1$d</string>
+    <string name="season_episode">%1$s - រដូវ %2$d វគ្គ %3$d</string>
+    <string name="season_special">រដូវពិសេស</string>
+    <string name="search_result_of">លទ្ធផលនៃការស្វែងរក \"%s\"</string>
+    <string name="getting_subtitle">កំពុងទទួលចំណងជើងរក… សូមរងចាំ…</string>
+    <string name="downloading_subtitle_toast">កំពុងទាញយកចំណងជើងរង… សូមរងចាំ…</string>
+    <string name="ready_to_play_toast">វីដេអូនឹងចាប់លេងនាពេលបន្តិចទៀត…</string>
+    <string name="searching_media">កំពុងសែ្វងរក…</string>
+    <string name="subtitle_language">ភាសា​ចំណងជើងរង : </string>
+    <string name="subtitle_download_failed">បរាជ័យ​ក្នុង​ការ​ទាញ​យក​ចំណង​ជើង​រង​… សូម​ព្យាយាម​រើស​យក​ចំណង​ជើង​រង…</string>
+    <string name="subtitle_extract_failed">បរាជ័យ​ក្នុង​ការ​ទាញ​ចេញ​ចំណង​ជើង​រង​… សូម​ព្យាយាម​រើស​យក​ចំណង​ជើង​រង...</string>
+    <string name="permission_grant_toast">សូម​ចុច​ \"អនុញ្ញាតិ\" ដើម្បី​ផ្តល់​ការ​អនុញ្ញាតិ​ និង​ព្យាយាម​ម្តង​ទៀត</string>
+    <string name="sorry">សូមអភ័យទោស…</string>
+    <string name="cant_be_opened_by_other_players">ប្រភព​នេះ​មិន​អាច​បើក​បាន​ទេ ​ឬ​លេង​ដោយ​កម្មវិធី​ចាក់​វីដេអូ​បាន​ទេ។ ​សូម​អភ័យទោស​ចំពោះ​ការ​រំខាន។</string>
+
+    <string name="ok">យល់ព្រម</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="close">បិទ</string>
+    <string name="install">ដំឡើង</string>
+    <string name="close_ad_to_play">សូម​បិទ​ផ្ទាំង​ពាណិជ្ជកម្ម​ មុន​នឹង​ចាប់​ផ្តើម​ចាក់​លេង​វីដេអូ</string>
+
+    <string name="mxplayer_not_installed">កម្មវិធី MX Player មិនទាន់បានដំឡើង</string>
+    <string name="mxplayer_not_installed_message">កម្មវិធី MX Player មិន​មាន​ដំឡើង​នៅ​លើ​ឧបករណ៍​របស់​អ្នក​។ Terrarium TV ត្រូវ​ការ​កម្មវិធី​ MX Player ដើម្បី​ចាក់​ឯកសារ​មេឌៀ​។ ចុច​លើ​ "ដំឡើង" ដើម្បី​ដំឡើង​កម្មវិធី​ MX Player ។</string>
+    <string name="mxplayer_unable_to_start">កម្មវិធី MX Player មិន​អាច​ដំណើរ​ការ​បាន</string>
+    <string name="mxplayer_unable_to_start_message">កម្មវិធី MX Player មិន​អាច​ដំណើរ​ការ​បាន។ សូម​ដំឡើង​កម្មវិធី​នេះ​ឡើង​វិញ​ និង​ព្យាយាម​ម្តង​ទៀត​។</string>
+
+    <string name="vlc_player_not_installed">កម្មវិធី VLC Player មិនទាន់បានដំឡើង</string>
+    <string name="vlc_player_not_installed_message">កម្មវិធី VLC Player មិន​មាន​ដំឡើង​នៅ​លើ​ឧបករណ៍​របស់​អ្នក​។ Terrarium TV ត្រូវ​ការ​កម្មវិធី​ VLC Player ដើម្បី​ចាក់​ឯកសារ​មេឌៀ​។ ចុច​លើ​ "ដំឡើង" ដើម្បី​ដំឡើង​កម្មវិធី​ VLC Player ។</string>
+    <string name="vlc_player_unable_to_start">កម្មវិធី VLC Player មិន​អាច​ដំណើរ​ការ​បាន</string>
+    <string name="vlc_player_unable_to_start_message">កម្មវិធី VLC Player មិន​អាច​ដំណើរ​ការ​បាន។ សូម​ដំឡើង​កម្មវិធី​នេះ​ឡើង​វិញ​ និង​ព្យាយាម​ម្តង​ទៀត​។</string>
+
+    <string name="trending">ការនិយម</string>
+    <string name="most_popular">ពេញនិយមបំផុត</string>
+    <string name="most_played">ចាក់​លេង​ច្រើន​បំផុត</string>
+    <string name="most_watched">ទស្សនា​ច្រើនបំផុត</string>
+    <string name="recently_updated">ទើបតែធ្វើបច្ចុប្បន្នភាព</string>
+    <string name="new_shows">កម្មវិធី​ថ្មី</string>
+    <string name="premieres">Premieres</string>
+    <string name="on_the_air">បញ្ចាំងក្នុងថ្ងៃនេះ</string>
+    <string name="top_rated">ចំណាត់ថ្នាក់ខ្ពស់</string>
+    <string name="now_playing">នៅក្នុងរោងកុន</string>
+
+    <string name="genre_tv_action_adventure">សកម្មភាព &amp; ការផ្សងព្រេង</string>
+    <string name="genre_tv_sci_fantasy">Sci-Fi &amp; Fantasy</string>
+    <string name="genre_tv_mystery">អាថ៍កំបាំង</string>
+    <string name="genre_tv_drama">ល្ខោន</string>
+    <string name="genre_tv_comedy">កំប្លែង</string>
+    <string name="genre_tv_family">ក្រុមគ្រួសារ</string>
+    <string name="genre_tv_war_politics">សង្គ្រាម &amp; នយោបាយ</string>
+    <string name="genre_tv_reality">ភាពពិត</string>
+    <string name="genre_tv_documentary">ភាពយន្តឯកសារ</string>
+    <string name="genre_tv_animation">គំនូរជីវចល</string>
+
+    <string name="genre_movie_action">សកម្មភាព</string>
+    <string name="genre_movie_adventure">ការផ្សងព្រេង</string>
+    <string name="genre_movie_thriller">ញាប់ញ័រ</string>
+    <string name="genre_movie_sci">Sci-Fi</string>
+    <string name="genre_movie_fantasy">Fantasy</string>
+    <string name="genre_movie_mystery">អាថ៍កំបាំង</string>
+    <string name="genre_movie_horror">រន្ធត់</string>
+    <string name="genre_movie_crime">ឧក្រិដ្ឋកម្ម</string>
+    <string name="genre_movie_drama">ល្ខោន</string>
+    <string name="genre_movie_romance">ស្នេហា</string>
+    <string name="genre_movie_comedy">កំប្លែង</string>
+    <string name="genre_movie_family">ក្រុមគ្រួសារ</string>
+    <string name="genre_movie_animation">គំនូរជីវចល</string>
+    <string name="genre_movie_western">លោកខាងលិច</string>
+    <string name="genre_movie_history">ប្រវត្តិសាស្រ្ត</string>
+    <string name="genre_movie_war">សង្រ្គាម</string>
+    <string name="genre_movie_documentary">ភាពយន្តឯកសារ</string>
+    <string name="genre_movie_music">តន្រ្តី</string>
+
+    <string name="list_movie_oscars_winners">ជ័យលាភីពានរង្វាន់អូស្ការ</string>
+    <string name="list_movie_christmas">បុណ្យណូអែល</string>
+    <string name="list_movie_marvels">Marvel\'s</string>
+    <string name="list_movie_disney_classics">Disney Classics</string>
+
+    <string name="filter_year">ឆ្នាំ</string>
+
+    <string name="pref_general">ទូទៅ</string>
+    <string name="pref_performance">ការសម្តែង</string>
+    <string name="pref_new_episode_notification">ការ​ជូន​ដំណឹង​ពីវគ្គថ្មី</string>
+    <string name="pref_ui">ចំណុចប្រទាក់អ្នក​ប្រើប្រាស់</string>
+    <string name="pref_sources_and_resolvers">អ្នកផ្គត់ផ្គង់ និង អ្នកដោះស្រាយ</string>
+    <string name="pref_subtitle">ភាសា​នៃ​ចំណង​ជើង​រង​ពី  OpenSubtitles និង Subscene</string>
+    <string name="pref_subtitle_chin">ភាសា​នៃ​ចំណង​ជើង​រង​ពី SubHD, Makedie និង Zimuku</string>
+    <string name="pref_backup_and_restore">ចម្លងទុក និងស្តារឡើងវិញ</string>
+    <string name="pref_others">ផ្សេងៗ</string>
+
+    <string name="pref_sub_down_path">ទីតាំងផ្ទុក​ចំណង​ជើង​រងដែលទាញយក</string>
+    <string name="pref_sub_down_path_des">ចំណងជើងរង​នឹងត្រូវបានទាញយក និងផ្ទុកទៅកាន់ទីតាំងនេះ។</string>
+    <string name="pref_media_down_path">ទីតាំង​ដែល​ទាញយក​ឯកសារ មេឌៀ (ប្រើ​សម្រាប់​តែ​កម្មវិធី​ទាញ​យករបស់ Android តែប៉ុណ្ណោះ)</string>
+    <string name="pref_choose_media_down_manager">ជ្រើស​រើស​កម្មវិធី​ទាញ​យក​លំនាំដើម…</string>
+    <string name="pref_auto_check_update">ពិនិត្យរកបច្ចុប្បន្នភាព​ដោយស័្វយ​ប្រវត្តិ</string>
+    <string name="pref_auto_mark_episode_as_watched">កំណត់ដោយស្វ័យប្រវត្តិពីវគ្គដែលបានមើលរួច</string>
+    <string name="pref_filter_out_non_english_shows">ស្រង់​ចេញនូវ​កម្មវិធីទូរទស្សន៍ដែល​មិនមែនជាភាសា​អង់គេ្លស</string>
+    <string name="pref_filter_out_dead_sources">ស្រង់ចេញនូវប្រភពដែលមិនដំណើរការ</string>
+    <string name="pref_filter_out_dead_sources_desc">វា​ត្រូវ​ចំណាយ​ពេល​បន្ថែម​ទៀត​ក្នុង​ការផ្ទុកប្រភពបន្ថែម</string>
+    <string name="pref_enable_new_episode_notification">បើក​ការ​ផ្តល់​ជូន​ដំណឹង​សម្រាប់​វគ្គ​ថ្មីៗ</string>
+    <string name="pref_check_new_episode_frequency">ពិនិត្យរកវគ្គថ្មីរៀងរាល់ (គិតជាម៉ោង)</string>
+    <string name="pref_hide_unaired_season">លាក់រដូវដែលមិនទាន់បានចាក់ផ្សាយ</string>
+    <string name="pref_hide_unaired_episode">លាក់វគ្គដែលមិនបានចាក់ផ្សាយ</string>
+    <string name="pref_subtitles_filter">ស្រង់ចេញនូវចំណងជងរង​ដែល​មិន​ត្រូវ​គ្នា</string>
+    <string name="pref_subtitles_choose_lang">ជ្ជ្រើសរើស​ភាសា​សម្រាប់​ចំណងជើងរង…</string>
+    <string name="pref_synopsis_choose_lang">ជ្រើសរើស​ភាសា​សម្រាប់​ការ​សង្ខេប​…</string>
+    <string name="pref_hide_poster_thumb">លាក់ផ្ទាំងរូបភាពតូច</string>
+    <string name="pref_hide_season_image">លាក់​រូបភាព​រដូវ</string>
+    <string name="pref_hide_episode_image">លាក់រូបភាពវគ្គ</string>
+    <string name="pref_show_menu_source">បង្ហាញ​មីនុយ​នៅពេល​ចុច​តែ​ម្តង​នៅ​បញ្ជី​ប្រភព​</string>
+    <string name="pref_poster_size">ទំហំផ្ទាំងរូបភាពមេឌៀ</string>
+    <string name="pref_parallel_loading_sources">កំពុង​ផ្ទុក​ប្រភព​ស្រប</string>
+    <string name="pref_parallel_loading_sources_desc">គាំទ្រ​យ៉ាង​ខ្លាំង​ក្នុង​ការ​បើក​ដំណើរ​ការ​វា។ បង្កើន​ល្បឿន​ក្នុង​ការ​ផ្ទុក​ប្រភព​បាន​លើស​៥​ដង​។ ទោះ​ជា​យ៉ាង​ណា​វា​អាច​ធ្វើ​ឲ្យ​មាន​បញ្ហា​ FC ឬ​គាំង​មិន​ដំណើរ​ការ​លើ​ឧបករណ៍​ស៊េរី​ទាប​មួយ​​ចំនួន​។</string>
+    <string name="pref_choose_default_nav">ជ្រើសរើស​លំនាំ​ដើម​រុករក…</string>
+    <string name="pref_choose_default_category_tv_shows">ជ្រើស​រើស​ប្រភេទ​កម្មវិធី​ទូរទស្សន៍​លំនាំ​ដើម​…</string>
+    <string name="pref_choose_default_category_movies">ជ្រើស​រើស​ប្រភេទ​ភាពយន្ត​លំនាំ​ដើម​​…</string>
+    <string name="pref_enabled_tv_shows_providers">ជ្រើសរើសការផ្តល់សេវាកម្មវិធីទូរទស្សន៍ឲ្យដំណើរការ…</string>
+    <string name="pref_enabled_movies_providers">ជ្រើស​រើស​ការ​ផ្តល់​សេវា​ភាពយន្ត​ឲ្យ​ដំណើរ​ការ…</string>
+    <string name="pref_enabled_resolvers">ជ្រើស​រើស​សេវា​ដោះ​ស្រាយ​ឲ្យ​ដំណើរ​ការ…</string>
+    <string name="pref_modern_ui">ប្រើចំណុចប្រទាក់ទំនើប</string>
+    <string name="pref_modern_ui_desc">បង្ហាញផ្ទាំងរូបភាពផ្សព្វផ្សាយជំនួសឱ្យបដា</string>
+    <string name="pref_choose_default_play_action">ជ្រើសរើស​សកម្មភាព​លំនាំដើម​ដើម្បី​លេង…</string>
+    <string name="pref_force_tv_mode">បង្ខំ​ប្រើ​Android TV</string>
+    <string name="pref_force_tv_mode_desc">បង្ខំ​បង្ហាញ​ទម្រង់​ Android TV</string>
+    <string name="pref_choose_default_player">ជ្រើស​រើសកម្មវិធីចាក់វីដេអូជា​លំនាំដើម…</string>
+    <string name="pref_show_hd_sources_only">បង្ហាញតែតំណភ្ជាប់ HD ប៉ុណ្ណោះ</string>
+    <string name="pref_show_season_special">បង្ហាញរដូវកាលពិសេស</string>
+    <string name="pref_backup_settings">ការ​កំណត់​ពី​ការ​ចម្លងទុក</string>
+    <string name="pref_restore_settings">ស្តារឡើងវិញការកំណត់</string>
+    <string name="pref_backup_favorites">ចម្លងទុក​ការពេញ​ចិត្ត</string>
+    <string name="pref_restore_favorites">ស្តារឡើងវិញពី​ការ​ពេញ​ចិត្ត</string>
+    <string name="backup_path">ចម្លងទុកទៅកាន់ \"%s\"</string>
+    <string name="restore_path">ស្តារឡើងវិញពី \"%s\"</string>
+    <string name="backup_success">ការចម្លងទុក​បាន​ជោគ​ជ័យ!</string>
+    <string name="restore_success">ការស្តារឡើងវិញបានជោគជ័យ!</string>
+    <string name="failed_to_backup">បរាជ័យក្នុងការចម្លងទុក</string>
+    <string name="failed_to_restore">បរាជ័យក្នុងការស្តារឡើងវិញ</string>
+    <string name="pref_resolve_all_links_immediately">ដោះ​ស្រាយ​រាល់​តំណ​ភ្ជាប់​ទាំងអស់ភ្លាមៗ</string>
+    <string name="pref_resolve_all_links_immediately_desc">ដោះ​ស្រាយ​តំណភ្ជាប់ទាំងអស់​ដើម្បីចាក់លេងភ្លាមៗ​ ។ បើ​សិន​ជម្រើស​នេះ​ប្រើ​លេង​បាន, Terrarium TV នឹង​ដោះ​ស្រាយតែ​តំណភ្ជាប់​ណា​នៅ​ពេល​ដែល​អ្នក​ប្រើ​ប្រាស់​ចុច​លើ​វា។ (បិទ​វា​នៅ​ពេល​ដែល​កម្មវិធីខ្វះ​ខាត​ច្រើន​!)</string>
+    <string name="pref_sources_list_refresh_interval">ធ្វើឱ្យស្រស់នូវ​ប្រភពបញ្ជីក្នុងចន្លោះពេល (គិតជាវិនាទី)</string>
+    <string name="pref_sources_list_refresh_interval_msg">ប្រសិនបើកម្មវិធីនេះនូវរក្សាការគាំងខណៈពេលកំពុងផ្ទុកតំណភ្ជាប់, សូមបង្កើនតម្លៃ។</string>
+    <string name="restart_to_see_the_difference">សូមចាប់ផ្ដើមកម្មវិធី Terrarium TV ឡើងវិញដើម្បីមើលឃើញពីភាពខុសគ្នានេះ។</string>
+
+    <string name="download_manager_internal">កម្មវិធីទាញយកខាងក្នុងរបស់ Android</string>
+    <string name="download_manager_external">កម្មវិធីទាញយកខាងក្រៅផ្សេងទៀត</string>
+
+    <string name="action_play">លេង</string>
+    <string name="action_play_with_subs">លេង​ជាមួយ​ចំណងជងរង</string>
+    <string name="action_download">ការទាញយក</string>
+    <string name="action_download_with_subs">ទាញ​យក​ជា​មួយ​ចំណង​ជង​រង</string>
+    <string name="action_copy_link">កូពីតំណភ្ជាប់ស្រ្ទីម​</string>
+    <string name="action_play_via_other_players">បើកជាមួយ…</string>
+    <string name="choose_player">ជ្រើសរើស​កម្មវិធី​ចាក់វីដេអូមួយ…</string>
+    <string name="no_player_was_found">គ្មានកម្មវិធីចាក់វីដេអូណាមួយ</string>
+    <string name="choose_external_download_manager">ជ្រើស​រើស​កម្មវិធី​ទាញយកខាងក្រៅ…</string>
+    <string name="no_external_download_manager_was_found">គ្មានកម្មវិធីគ្រប់គ្រងការទាញខាងក្រៅត្រូវបានរកឃើញ។ សូមទាញយកពី Play Store ឬប្រើប្រព័ន្ធប្រតិបត្តិការ Android ទាញយកកម្មវិធីគ្រប់គ្រងផ្ទៃក្នុង</string>
+    <string name="download_started">ការ​ទាញ​យក​បាន​ចាប់​ផ្តើម…</string>
+    <string name="download_path_error">ទីតាំងទាញយកត្រូវតែមាននៅមានផ្ទុកខាងក្នុង។ សូមជ្រើសទីតាំងផ្សេងទៀត។</string>
+    <string name="copied_link">តំណភ្ជាប់​ស្រ្ទីម​បានកូពី​រួចរាល់ហើយ!</string>
+    <string name="link_must_be_played_in_app">សូមអភ័យទោស ... តំណភ្ជាប់នេះអាចលេងបានតែនៅក្នុង កម្មវិធី Terrarium TV ...</string>
+    <string name="video_player_crashed_unexpectedly">កម្មវិធីចាក់លេងបានជួបបញ្ហា។ សូមព្យាយាមប្រើកម្មវិធីចាក់វីដេអូមួយផ្សេងទៀតដើម្បីលេងវីដេអូ។</string>
+    <string name="choose_subtitles_file">ជ្រើសរើស​ឯកសារ​ចំណង​ជើងរងមួយ…</string>
+
+    <string name="update_title">ជំនាន់ថ្មីត្រូវបានរកឃើញ : %s</string>
+    <string name="update_message">ជំនាន់ %s : </string>
+    <string name="update_button">បច្ចុប្បន្នភាព</string>
+    <string name="update_downloading">កំពុងទាញយកបច្ចុប្បន្នភាព %s</string>
+    <string name="update_failed">បរាជ័យ​ក្នុង​ការធ្វើ​បច្ចុប្បន្នភាព​ ឬត្រូវបាន​រំខាន</string>
+
+    <string name="subtitle_name">ឈ្មោះចំណងជើងរង : </string>
+
+    <string name="facebook_page">ទំព័រហ្វេសប៊ុក</string>
+    <string name="official_website_menuitem">គេហ៍ទំព័រ​ផ្លូវ​ការ</string>
+
+    <string name="changelog">ការផ្លាស់ប្តូរ</string>
+    <string name="choose_browser">ជ្រើសរើសកម្មវិធីកម្មវិធី​រុករក</string>
+    <string name="choose_app">ជ្រើសរើសកម្មវិធីមួយ…</string>
+
+    <string name="disclaimer">ការមិនទទួលខុសត្រូវ</string>
+    <string name="accept">យល់ព្រម</string>
+    <string name="decline">បដិសេធ</string>
+
+    <string name="cant_open_youtube">មិន​អាច​ដំណើរ​ការ​កម្មវិធី Youtube បាន. សូមព្យាយាមម្តងទៀត​។</string>
+    <string name="error">បញ្ហា​បានកើតឡើង ។ សូមព្យាយាមម្តងទៀត​។</string>
+    <string name="please_wait">សូមរងចាំ…</string>
+
+    <string name="recaptcha_verify">អ្នកត្រូវការផ្ទៀងផ្ទាត់ reCAPTCHA ដើម្បីទទួលបានប្រភពពី %s</string>
+    <string name="verify">បញ្ជាក់</string>
+
+    <string name="size_large">ធំ</string>
+    <string name="size_normal">ធម្មតា</string>
+    <string name="size_small">តូច</string>
+
+    <string name="show_details_overview">ទិដ្ឋភាពទូទៅ</string>
+    <string name="show_details_season">រដូវ</string>
+    <string name="media_suggestion">មើល​ផងដែរ</string>
+    <string name="no_synopsis">គ្មានសង្ខេប</string>
+    <string name="loading_ratings">កំពុងផ្ទុក​ចំណាត់​ថ្នាក់…</string>
+    <string name="no_ratings">គ្មានចំណាត់ថ្នាក់</string>
+    <string name="meta_in_production">ក្នុង​ផលិត​កម្ម</string>
+    <string name="meta_returning_series">ការវិលត្រឡប់ស៊េរី</string>
+    <string name="meta_ended">បញ្ចប់</string>
+
+    <string name="navigation_drawer_open">បើកថតកម្មវិធីរុករក</string>
+    <string name="navigation_drawer_close">បិទថតកម្មវិធីរុករក</string>
+
+    <string name="tv_shows">កម្មវិធី​ទូរទស្សន៍</string>
+    <string name="movies">ភាពយន្ត</string>
+
+    <string name="play_trailer">ចាក់លេង Trailer</string>
+
+    <string name="translators">អ្នកបកប្រែ</string>
+
+    <string name="pref_app_lang">ភាសាកម្មវិធី</string>
+
+    <string name="learn_more">សិក្សាបន្ថែម</string>
+
+    <string name="new_episode">វគ្គថ្មី: %s</string>
+
+    <string name="resolving">កំពុងដោះស្រាយ</string>
+    <string name="resolving_links">កំពុងដោះស្រាយ ដំណភ្ជាប់…</string>
+    <string name="failed_to_resolve_link">បរាជ័យ​ក្នុង​ការ​ដោះ​ស្រាយ​តំណភ្ជាប់បាន។ សូមរើសយកតំណភ្ជាប់ដ៏ទៃផ្សេងទៀត​មកជំនួស។ </string>
+    <string name="no_streamlink_is_available">សូមអភ័យទោស… ពុំមានតំណភ្ជាប់ស្ទ្រីមណាមួយអាចប្រើប្រាស់បាន…</string>
+    <string name="link_cant_be_resolved">សូមអភ័យទោស… តំណភ្ជាប់នេះ​មិនអាចដោះស្រាយបាន…</string>
+
+    <string name="low_end_device_detected">ឧបករណ៍មានតម្លៃទាបបំផុតដែលបានរកឃើញ</string>
+    <string name="resolve_all_links_immediately_disabled">វាហាក់ដូចជាថាអ្នកកំពុងប្រើកម្មវិធី Terrarium TV នៅលើឧបករណ៍គុណភាពទាប។ ដោយសារតែការបង្កើនការសម្តែងនិងការកែលម្អបទពិសោធរបស់អ្នកប្រើ \ "ដោះស្រាយតំណទាំងអស់ជាបន្ទាន់ \" និងលក្ខណៈពិសេសត្រូវបានបិទតាមលំនាំដើម។ អ្នកនឹងមិនអាចមើលឃើញទំហំឯកសារសម្រាប់តំណមួយចំនួនឥឡូវទេប៉ុន្តែកម្មវិធីនេះនឹងមិនធ្លាក់និង lag ម្តងទៀត។ ប្រសិនបើអ្នកចង់ឃើញទំហំឯកសារតំណទាំងអស់ម្ដងទៀតអ្នកអាចទៅកាន់ \ "ការកំណត់ \" ទំព័រនិងអនុញ្ញាតជម្រើសទាំងនោះ</string>
+
+    <string name="media_route_menu_title">លេង…</string>
+    <string name="chromecast_available">មានឧបករណ៍ Chromecast នៅទីនេះ</string>
+    <string name="chromecast_not_connected">Chromecast ពុំអាចភ្ជាប់បាន</string>
+    <string name="chromecast_resume_failed">បរាជ័យក្នុងការចាក់សារថ្មីវីដេអូបន្ត</string>
+    <string name="chromecast_failed_to_play">បរាជ័យក្នុងការចាក់វីដេអូ</string>
+    <string name="video_cant_be_casted">វីដេអូនេះមិនអាចត្រូវភ្ជាប់ទៅ Chromecast</string>
+    <string name="google_play_services_not_installed">សេវាកម្ម Google កម្សាន្តមិនត្រូវបានដំឡើង</string>
+    <string name="cant_cast_on_tv">ពុំអាចភ្ជាប់ទៅកាន់ Chromecast នៅលើឧបករណ៍ Android TV</string>
+
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">មាន​កំហុស​មួយ​បាន​កើត​ឡើង​ដោយ​អចេតនា​និងបាន​រាយការណ៍​ទៅ​កាន់​អ្នក​អភិវឌ្ឍ​កម្មវិធីរួចហើយ។\n សូម​អភ័យទោស​ចំពោះ​ការ​រំខាន។ \n\n បើ​សិន​ជា​កម្មវិធី​នេះ​នៅ​តែ​គាំង​មិន​ដំណើរ​ការ​សូម​ធ្វើ​ការ​កែ​សម្រួល​ \"ការ​សម្តែង\" នៅ​ក្នុង​ទំព័រ \"ការ​កំណត់\" ។</string>
+    <string name="customactivityoncrash_error_activity_unknown_exception">មិនស្គាល់ករណីលើកលែង</string>
+    <string name="customactivityoncrash_error_activity_restart_app">ចាប់ផ្ដើម Terrarium TV ឡើងវិញ</string>
+    <string name="customactivityoncrash_error_activity_close_app">បិទ Terrarium TV</string>
+    <string name="customactivityoncrash_error_activity_error_details">សេចក្តី​លំអិត​អំពី​បញ្ហា</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">សេចក្តី​លំអិត​អំពី​បញ្ហា</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">បិទ</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">កូពីទៅក្តារតម្បៀតខ្ទាស់</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">បានកូពីទៅក្តារតម្បៀតខ្ទាស់</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">ព័ត៌មានអំពីបញ្ហា</string>
+
+    <!-- DO NOT EDIT THE STRINGS BELOW -->
+    <string name="app_name" translatable="false">Terrarium TV</string>
+    <string name="about_app_title" translatable="false">About Terrarium TV</string>
+    <string name="about_app_message" translatable="false">Terrarium TV (Version : %s)\nMade by Peter Chan (NitroXenon) | All Copyright Reserved\n\nOfficial Website : https://terrariumtv.com\n\nOfficial Facebook Page : https://fb.com/terrariumtv\n\nReddit : /r/TerrariumTV\n\nTerrarium is absolutely legal and contain only links to other sites on the Internet (SezonlukDizi, Dizimag, TheVideo, ZStream, etc). It does not host or upload any videos, films or media files. Terrarium simply aggregates links in a convenient, user-friendly interface. Terrarium is not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. If you have any legal issues, please contact the appropriate media file owners or host sites. Any legal issues regarding the free online tv shows and movies on this application should be taken up with the actual file hosts and providers themselves, as we\'re not affiliated with them.\n\nIn case of copyright infringement, please directly contact the responsible parties. Terrarium TV operates as a search engine of TV shows and movies content found publicly available on the internet, in principle conducting in the same way as Google. However, Terrarium TV strongly believes in the protection of intellectual property and would be willing to assist when possible and applicable. Terrarium TV does not accept respons or content hoste on third party websites, nor do we upload videos ourselves or encourage others to do so. The videos are streamed directly from the third-party video sharing services mentioned above. All other trademarks, logos, and images are the property of their respective and rightful owners.\n\nUse Terrarium TV at your own risk.</string>
+    <string name="official_website" translatable="false">https://terrariumtv.com</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-8258064054338881/3882561855</string>
+</resources>
